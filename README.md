@@ -93,48 +93,23 @@ Goal   : Build scalable products
 
 ## GitHub Analytics
 
-<p align="center">
+<div align="center" style="margin-bottom: 18px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukraelmohammed32&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukraelmohammed32&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukraelmohammed32&theme=default" alt="GitHub profile summary" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukraelmohammed32&theme=transparent" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukraelmohammed32&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukraelmohammed32&theme=transparent" alt="GitHub profile summary" width="100%" />
   </picture>
-</p>
+</div>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shukraelmohammed32&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&icon_color=14b8a6&title_color=60a5fa&text_color=ffffff" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shukraelmohammed32&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&icon_color=0f766e&title_color=1d4ed8&text_color=0f172a" />
-        <img src="https://github-readme-stats.vercel.app/api?username=shukraelmohammed32&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&icon_color=0f766e&title_color=1d4ed8&text_color=0f172a" alt="GitHub stats" width="100%" />
-      </picture>
-    </td>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shukraelmohammed32&theme=github-dark-blue&hide_border=true&ring=60a5fa&fire=14b8a6&currStreakLabel=ffffff&dates=cbd5e1&sideNums=ffffff&sideLabels=cbd5e1" />
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=shukraelmohammed32&theme=default&hide_border=true&ring=2563eb&fire=0f766e&currStreakLabel=0f172a&dates=475569&sideNums=0f172a&sideLabels=475569" />
-        <img src="https://streak-stats.demolab.com?user=shukraelmohammed32&theme=default&hide_border=true&ring=2563eb&fire=0f766e&currStreakLabel=0f172a&dates=475569&sideNums=0f172a&sideLabels=475569" alt="GitHub streak stats" width="100%" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shukraelmohammed32&theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shukraelmohammed32&theme=default" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shukraelmohammed32&theme=default" alt="Repositories per language" width="100%" />
-      </picture>
-    </td>
-    <td width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shukraelmohammed32&theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shukraelmohammed32&theme=default" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shukraelmohammed32&theme=default" alt="Most commit language" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shukraelmohammed32&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1224&title_color=38BDF8&text_color=C7D2FE&icon_color=22D3EE" alt="Contribution stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=shukraelmohammed32&hide_border=true&background=0D1224&ring=38BDF8&currStreakLabel=C7D2FE&sideNums=C7D2FE&sideLabels=7C8EA6&dates=475569&fire=22D3EE" alt="GitHub streak" height="180" />
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin-top: 16px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shukraelmohammed32&theme=transparent" alt="Repositories per language" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shukraelmohammed32&theme=transparent" alt="Most commit language" height="200" />
+</div>
 
 ---
 
