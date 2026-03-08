@@ -1,15 +1,139 @@
-# 💫 HEY am shukrael
-I'm currently working on mastering React and building real-world projects.<br>I'm looking to collaborate on building reusable React components and UI libraries.<br>I'm looking for help with building scalable React applications.<br>i'm currently working on full-stack development while strengthening both my<br> React and JavaScript skills.<br>Fun fact: I write code now and understand it later.<br>
+# Hello, I'm Shukrael Mohammed
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:14b8a6&text=Shukrael%20Mohammed&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20Enthusiast%20%7C%20UI%2FUX%20Focused&descAlignY=58&animation=fadeIn" alt="Profile header banner" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100076740533442) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mohashukra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@shukraelmohammed32)[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_hJyooDtFVMgpRwDiraqvQ)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shukraelmohammed32&label=Profile%20Views&style=for-the-badge&color=2563eb" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shukraelmohammed32?style=for-the-badge&color=0f172a&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-14b8a6?style=for-the-badge" alt="Focus" />
+</p>
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shukraelmohammed32&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shukraelmohammed32&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shukraelmohammed32&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Building+scalable+web+applications;Designing+clean+and+reusable+UI+components;Learning+advanced+React+patterns+every+day" alt="Typing introduction" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## About Me
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
+I am a full-stack developer focused on building modern web applications with clean architecture, reusable components, and thoughtful user experiences.
+
+- I am currently working on **Full-Stack Development**
+- I am learning **Advanced React Patterns and Scalable Architecture**
+- I want to collaborate on **Reusable React Components and UI Libraries**
+- Ask me about **React, JavaScript, Node.js, and TypeScript**
+- Fun fact: **I write code now and understand it later**
+
+I am currently sharpening my React skills through real-world projects while continuing to grow across the full stack.
+
+  </td>
+    <td width="38%" valign="top">
+
+```text
+Profile Snapshot
+----------------
+Role   : Full-Stack Developer
+Focus  : React + JavaScript
+Style  : Clean UI, reusable systems
+Goal   : Build scalable products
+```
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://facebook.com/100076740533442" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/@mohashukra" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/@shukraelmohammed32" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC_hJyooDtFVMgpRwDiraqvQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:shukrael@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## Tech Stack
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,sass,bootstrap,flutter,dart" alt="Frontend stack" />
+</p>
+
+### Backend and Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,php,java" alt="Backend stack" />
+</p>
+
+### Tools and Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,oracle,apache,cloudflare,windows" alt="Tools and platforms" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shukraelmohammed32&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=14b8a6&title_color=60a5fa&text_color=ffffff" width="48%" alt="GitHub stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shukraelmohammed32&theme=dark&hide_border=true&ring=60a5fa&fire=14b8a6&currStreakLabel=ffffff" width="48%" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukraelmohammed32&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=60a5fa&text_color=ffffff" width="56%" alt="Top languages" />
+</p>
+
+---
+
+## GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shukraelmohammed32&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub trophies" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=shukraelmohammed32&bg_color=0d1117&color=60a5fa&line=14b8a6&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+## Quote To Live By
+
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+> 
+> Martin Fowler
+
+---
+
+<p align="center">
+  <img src="https://badges.pufler.dev/years/shukraelmohammed32" alt="Years on GitHub" />
+  <img src="https://badges.pufler.dev/commits/monthly/shukraelmohammed32" alt="Monthly commits" />
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting my profile.</strong><br />
+  Let's build something clean, scalable, and useful together.
+</p>
