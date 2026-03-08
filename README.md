@@ -138,13 +138,17 @@ Goal   : Build scalable products
 
 ---
 
-## GitHub Achievements
+## GitHub Trophies
+
+<p align="center">
+  <strong>Highlights across stars, followers, commits, repositories, pull requests, and issues.</strong>
+</p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=shukraelmohammed32&theme=algolia&no-frame=true&no-bg=true&margin-w=16&margin-h=16&row=2&column=3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=shukraelmohammed32&theme=flat&no-frame=true&no-bg=true&margin-w=16&margin-h=16&row=2&column=3" />
-    <img src="https://github-profile-trophy.vercel.app/?username=shukraelmohammed32&theme=flat&no-frame=true&no-bg=true&margin-w=16&margin-h=16&row=2&column=3" alt="GitHub trophies" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=shukraelmohammed32&theme=algolia&no-frame=true&no-bg=true&margin-w=16&margin-h=16&row=2&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=shukraelmohammed32&theme=flat&no-frame=true&no-bg=true&margin-w=16&margin-h=16&row=2&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shukraelmohammed32&theme=flat&no-frame=true&no-bg=true&margin-w=16&margin-h=16&row=2&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub trophies" width="100%" />
   </picture>
 </p>
 
