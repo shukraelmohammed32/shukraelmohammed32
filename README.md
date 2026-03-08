@@ -94,20 +94,58 @@ Goal   : Build scalable products
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shukraelmohammed32&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=14b8a6&title_color=60a5fa&text_color=ffffff" width="48%" alt="GitHub stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shukraelmohammed32&theme=dark&hide_border=true&ring=60a5fa&fire=14b8a6&currStreakLabel=ffffff" width="48%" alt="GitHub streak stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukraelmohammed32&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukraelmohammed32&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukraelmohammed32&theme=default" alt="GitHub profile summary" width="100%" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukraelmohammed32&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=60a5fa&text_color=ffffff" width="56%" alt="Top languages" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shukraelmohammed32&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&icon_color=14b8a6&title_color=60a5fa&text_color=ffffff" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shukraelmohammed32&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&icon_color=0f766e&title_color=1d4ed8&text_color=0f172a" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shukraelmohammed32&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&icon_color=0f766e&title_color=1d4ed8&text_color=0f172a" alt="GitHub stats" width="100%" />
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shukraelmohammed32&theme=github-dark-blue&hide_border=true&ring=60a5fa&fire=14b8a6&currStreakLabel=ffffff&dates=cbd5e1&sideNums=ffffff&sideLabels=cbd5e1" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=shukraelmohammed32&theme=default&hide_border=true&ring=2563eb&fire=0f766e&currStreakLabel=0f172a&dates=475569&sideNums=0f172a&sideLabels=475569" />
+        <img src="https://streak-stats.demolab.com?user=shukraelmohammed32&theme=default&hide_border=true&ring=2563eb&fire=0f766e&currStreakLabel=0f172a&dates=475569&sideNums=0f172a&sideLabels=475569" alt="GitHub streak stats" width="100%" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shukraelmohammed32&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shukraelmohammed32&theme=default" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shukraelmohammed32&theme=default" alt="Repositories per language" width="100%" />
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shukraelmohammed32&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shukraelmohammed32&theme=default" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shukraelmohammed32&theme=default" alt="Most commit language" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shukraelmohammed32&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=shukraelmohammed32&theme=algolia&no-frame=true&no-bg=true&margin-w=16&margin-h=16&row=2&column=3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=shukraelmohammed32&theme=flat&no-frame=true&no-bg=true&margin-w=16&margin-h=16&row=2&column=3" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shukraelmohammed32&theme=flat&no-frame=true&no-bg=true&margin-w=16&margin-h=16&row=2&column=3" alt="GitHub trophies" width="100%" />
+  </picture>
 </p>
 
 ---
@@ -122,8 +160,8 @@ Goal   : Build scalable products
 
 ## Quote To Live By
 
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
-> 
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+>
 > Martin Fowler
 
 ---
