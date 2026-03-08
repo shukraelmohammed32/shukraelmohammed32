@@ -102,7 +102,7 @@ Goal   : Build scalable products
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="https://streak-stats.demolab.com?user=shukraelmohammed32&hide_border=true&background=1A1F2E&ring=38BDF8&currStreakLabel=C7D2FE&sideNums=C7D2FE&sideLabels=7C8EA6&dates=475569&fire=22D3EE" alt="GitHub streak" height="180" />
+  <img src="https://streak-stats.demolab.com?user=shukraelmohammed32&hide_border=true&background=1A1F2E&ring=FACC15&currStreakLabel=F8FAFC&currStreakNum=FACC15&sideNums=F8FAFC&sideLabels=B4C2D4&dates=94A3B8&fire=FACC15" alt="GitHub streak" height="180" />
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin-top: 16px;">
