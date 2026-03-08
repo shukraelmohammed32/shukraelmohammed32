@@ -18,35 +18,60 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
-
-I am a full-stack developer focused on building modern web applications with clean architecture, reusable components, and thoughtful user experiences.
-
-- I am currently working on **Full-Stack Development**
-- I am learning **Advanced React Patterns and Scalable Architecture**
-- I want to collaborate on **Reusable React Components and UI Libraries**
-- Ask me about **React, JavaScript, Node.js, and TypeScript**
-- Fun fact: **I write code now and understand it later**
-
-I am currently sharpening my React skills through real-world projects while continuing to grow across the full stack.
-
-  </td>
-    <td width="38%" valign="top">
-
-```text
-Profile Snapshot
-----------------
-Role   : Full-Stack Developer
-Focus  : React + JavaScript
-Style  : Clean UI, reusable systems
-Goal   : Build scalable products
-```
-
-  </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="background: linear-gradient(130deg, #0f172a 0%, #111c34 35%, #1e3a8a 78%, #0f172a 100%); border-radius: 28px; padding: 32px 28px; color: #e2e8f0; max-width: 980px; box-shadow: 0 24px 50px rgba(2, 6, 23, 0.55); border: 1px solid rgba(56, 189, 248, 0.25);">
+    <p style="font-size: 18px; line-height: 1.7; margin: 0;">
+      I design and ship modern web products with <strong>clean architecture</strong>, <strong>reusable UI systems</strong>, and a focus on delightful, maintainable experiences for both users and engineers.
+    </p>
+    <div style="display: flex; flex-wrap: wrap; gap: 18px; margin-top: 24px;">
+      <div style="flex: 1 1 260px; background: rgba(15, 23, 42, 0.88); border: 1px solid rgba(248, 250, 252, 0.08); border-radius: 18px; padding: 20px;">
+        <h4 style="margin: 0 0 12px 0; color: #38bdf8; font-size: 16px; letter-spacing: 0.04em;">Right Now</h4>
+        <ul style="list-style: none; padding-left: 0; margin: 0; line-height: 1.5;">
+          <li>✅ Building full-stack experiences with React, TypeScript, and Node.</li>
+          <li>🧭 Mapping data flows, design tokens, and reusable component kits.</li>
+          <li>🧩 Keeping interfaces cohesive with motion, accessibility, and testing in mind.</li>
+        </ul>
+      </div>
+      <div style="flex: 1 1 260px; background: rgba(15, 23, 42, 0.88); border: 1px solid rgba(250, 204, 21, 0.35); border-radius: 18px; padding: 20px;">
+        <h4 style="margin: 0 0 12px 0; color: #facc15; font-size: 16px; letter-spacing: 0.04em;">Leveling Up</h4>
+        <ul style="list-style: none; padding-left: 0; margin: 0; line-height: 1.5;">
+          <li>📚 Deep-diving advanced React patterns, concurrency, and streaming UI.</li>
+          <li>⚙️ Stress-testing scalable architectures with Vitest, Playwright, and Storybook.</li>
+          <li>🚀 Automating DX for faster reviews, CI clarity, and reliable releases.</li>
+        </ul>
+      </div>
+      <div style="flex: 1 1 260px; background: rgba(15, 23, 42, 0.88); border: 1px solid rgba(248, 113, 113, 0.35); border-radius: 18px; padding: 20px;">
+        <h4 style="margin: 0 0 12px 0; color: #f87171; font-size: 16px; letter-spacing: 0.04em;">Let's Collaborate</h4>
+        <ul style="list-style: none; padding-left: 0; margin: 0; line-height: 1.5;">
+          <li>🤝 Partnering on design systems or front-end platforms that need a polish pass.</li>
+          <li>🛠️ Pair-building prototypes, reviewing architecture, or scaling component libraries.</li>
+          <li>💬 Always open to thoughtful conversations about product velocity and UX craft.</li>
+        </ul>
+      </div>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 18px; margin-top: 24px;">
+      <div style="flex: 1 1 200px; background: rgba(15, 23, 42, 0.82); border-radius: 16px; padding: 18px; border: 1px solid rgba(148, 163, 184, 0.3);">
+        <div style="font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: #94a3b8;">Role</div>
+        <div style="font-size: 20px; font-weight: 600; color: #f8fafc;">Full-Stack Developer</div>
+      </div>
+      <div style="flex: 1 1 200px; background: rgba(15, 23, 42, 0.82); border-radius: 16px; padding: 18px; border: 1px solid rgba(148, 163, 184, 0.3);">
+        <div style="font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: #94a3b8;">Focus</div>
+        <div style="font-size: 20px; font-weight: 600; color: #38bdf8;">React + Scalable UI</div>
+      </div>
+      <div style="flex: 1 1 200px; background: rgba(15, 23, 42, 0.82); border-radius: 16px; padding: 18px; border: 1px solid rgba(148, 163, 184, 0.3);">
+        <div style="font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: #94a3b8;">Style</div>
+        <div style="font-size: 20px; font-weight: 600; color: #f472b6;">Clean, reusable systems</div>
+      </div>
+      <div style="flex: 1 1 200px; background: rgba(15, 23, 42, 0.82); border-radius: 16px; padding: 18px; border: 1px solid rgba(148, 163, 184, 0.3);">
+        <div style="font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: #94a3b8;">Goal</div>
+        <div style="font-size: 20px; font-weight: 600; color: #facc15;">Ship scalable products</div>
+      </div>
+    </div>
+    <p style="margin-top: 26px; font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: #cbd5f5;">
+      Fun fact: I write the cleanest code when lo-fi beats and espresso are within arm's reach.
+    </p>
+  </div>
+</div>
 
 ---
 
