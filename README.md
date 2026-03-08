@@ -102,8 +102,7 @@ Goal   : Build scalable products
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shukraelmohammed32&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1224&title_color=38BDF8&text_color=C7D2FE&icon_color=22D3EE" alt="Contribution stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=shukraelmohammed32&hide_border=true&background=0D1224&ring=38BDF8&currStreakLabel=C7D2FE&sideNums=C7D2FE&sideLabels=7C8EA6&dates=475569&fire=22D3EE" alt="GitHub streak" height="180" />
+  <img src="https://streak-stats.demolab.com?user=shukraelmohammed32&hide_border=true&background=1A1F2E&ring=38BDF8&currStreakLabel=C7D2FE&sideNums=C7D2FE&sideLabels=7C8EA6&dates=475569&fire=22D3EE" alt="GitHub streak" height="180" />
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin-top: 16px;">
