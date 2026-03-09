@@ -27,25 +27,25 @@
       <div style="flex: 1 1 260px; background: rgba(15, 23, 42, 0.88); border: 1px solid rgba(248, 250, 252, 0.08); border-radius: 18px; padding: 20px;">
         <h4 style="margin: 0 0 12px 0; color: #38bdf8; font-size: 16px; letter-spacing: 0.04em;">Right Now</h4>
         <ul style="list-style: none; padding-left: 0; margin: 0; line-height: 1.5;">
-          <li>✅ Building full-stack experiences with React, TypeScript, and Node.</li>
-          <li>🧭 Mapping data flows, design tokens, and reusable component kits.</li>
-          <li>🧩 Keeping interfaces cohesive with motion, accessibility, and testing in mind.</li>
+          <li><span style="color: #38bdf8; font-weight: 600; margin-right: 6px;">➤</span>Building full-stack experiences with React, TypeScript, and Node.</li>
+          <li><span style="color: #38bdf8; font-weight: 600; margin-right: 6px;">➤</span>Mapping data flows, design tokens, and reusable component kits.</li>
+          <li><span style="color: #38bdf8; font-weight: 600; margin-right: 6px;">➤</span>Keeping interfaces cohesive with motion, accessibility, and testing in mind.</li>
         </ul>
       </div>
       <div style="flex: 1 1 260px; background: rgba(15, 23, 42, 0.88); border: 1px solid rgba(250, 204, 21, 0.35); border-radius: 18px; padding: 20px;">
         <h4 style="margin: 0 0 12px 0; color: #facc15; font-size: 16px; letter-spacing: 0.04em;">Leveling Up</h4>
         <ul style="list-style: none; padding-left: 0; margin: 0; line-height: 1.5;">
-          <li>📚 Deep-diving advanced React patterns, concurrency, and streaming UI.</li>
-          <li>⚙️ Stress-testing scalable architectures with Vitest, Playwright, and Storybook.</li>
-          <li>🚀 Automating DX for faster reviews, CI clarity, and reliable releases.</li>
+          <li><span style="color: #facc15; font-weight: 600; margin-right: 6px;">➤</span>Deep-diving advanced React patterns, concurrency, and streaming UI.</li>
+          <li><span style="color: #facc15; font-weight: 600; margin-right: 6px;">➤</span>Stress-testing scalable architectures with Vitest, Playwright, and Storybook.</li>
+          <li><span style="color: #facc15; font-weight: 600; margin-right: 6px;">➤</span>Automating DX for faster reviews, CI clarity, and reliable releases.</li>
         </ul>
       </div>
       <div style="flex: 1 1 260px; background: rgba(15, 23, 42, 0.88); border: 1px solid rgba(248, 113, 113, 0.35); border-radius: 18px; padding: 20px;">
         <h4 style="margin: 0 0 12px 0; color: #f87171; font-size: 16px; letter-spacing: 0.04em;">Let's Collaborate</h4>
         <ul style="list-style: none; padding-left: 0; margin: 0; line-height: 1.5;">
-          <li>🤝 Partnering on design systems or front-end platforms that need a polish pass.</li>
-          <li>🛠️ Pair-building prototypes, reviewing architecture, or scaling component libraries.</li>
-          <li>💬 Always open to thoughtful conversations about product velocity and UX craft.</li>
+          <li><span style="color: #f87171; font-weight: 600; margin-right: 6px;">➤</span>Partnering on design systems or front-end platforms that need a polish pass.</li>
+          <li><span style="color: #f87171; font-weight: 600; margin-right: 6px;">➤</span>Pair-building prototypes, reviewing architecture, or scaling component libraries.</li>
+          <li><span style="color: #f87171; font-weight: 600; margin-right: 6px;">➤</span>Always open to thoughtful conversations about product velocity and UX craft.</li>
         </ul>
       </div>
     </div>
