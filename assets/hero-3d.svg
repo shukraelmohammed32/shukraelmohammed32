@@ -1,37 +1,37 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="3D hero card for Shukrael Mohammed">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0B132B"/>
-      <stop offset="0.5" stop-color="#1C2541"/>
-      <stop offset="1" stop-color="#3A506B"/>
+      <stop offset="0" stop-color="#120C2E"/>
+      <stop offset="0.5" stop-color="#3B185F"/>
+      <stop offset="1" stop-color="#A12568"/>
     </linearGradient>
     <linearGradient id="accent" x1="220" y1="74" x2="890" y2="252" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#5BC0BE"/>
-      <stop offset="1" stop-color="#F6AE2D"/>
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#FFB703"/>
     </linearGradient>
     <filter id="blurGlow" x="-40%" y="-60%" width="180%" height="220%" filterUnits="objectBoundingBox">
       <feGaussianBlur stdDeviation="22" result="b"/>
       <feColorMatrix in="b" type="matrix" values="1 0 0 0 0  0 1 0 0 0.45  0 0 1 0 0.35  0 0 0 1 0"/>
     </filter>
     <filter id="cardShadow" x="140" y="12" width="940" height="292" filterUnits="userSpaceOnUse">
-      <feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#020611" flood-opacity="0.45"/>
+      <feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#090412" flood-opacity="0.45"/>
     </filter>
   </defs>
 
   <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
 
-  <circle cx="1020" cy="78" r="92" fill="#5BC0BE" opacity="0.14" filter="url(#blurGlow)"/>
-  <circle cx="170" cy="240" r="86" fill="#F6AE2D" opacity="0.14" filter="url(#blurGlow)"/>
+  <circle cx="1020" cy="78" r="92" fill="#00E5FF" opacity="0.16" filter="url(#blurGlow)"/>
+  <circle cx="170" cy="240" r="86" fill="#FF4D8D" opacity="0.15" filter="url(#blurGlow)"/>
 
   <g filter="url(#cardShadow)">
-    <path d="M220 64L880 64C901.003 64 918 80.9975 918 102V236C918 257.003 901.003 274 880 274H220C198.997 274 182 257.003 182 236V102C182 80.9975 198.997 64 220 64Z" fill="#0E1A33"/>
-    <path d="M220 64L880 64C901.003 64 918 80.9975 918 102V114H182V102C182 80.9975 198.997 64 220 64Z" fill="#233457"/>
-    <path d="M220 64L880 64C901.003 64 918 80.9975 918 102V236C918 257.003 901.003 274 880 274H220C198.997 274 182 257.003 182 236V102C182 80.9975 198.997 64 220 64Z" stroke="#4D658A" stroke-opacity="0.45"/>
+    <path d="M220 64L880 64C901.003 64 918 80.9975 918 102V236C918 257.003 901.003 274 880 274H220C198.997 274 182 257.003 182 236V102C182 80.9975 198.997 64 220 64Z" fill="#1A143A"/>
+    <path d="M220 64L880 64C901.003 64 918 80.9975 918 102V114H182V102C182 80.9975 198.997 64 220 64Z" fill="#2A1E56"/>
+    <path d="M220 64L880 64C901.003 64 918 80.9975 918 102V236C918 257.003 901.003 274 880 274H220C198.997 274 182 257.003 182 236V102C182 80.9975 198.997 64 220 64Z" stroke="#8C74D7" stroke-opacity="0.48"/>
   </g>
 
   <rect x="212" y="94" width="14" height="14" rx="7" fill="#FF6B6B"/>
-  <rect x="236" y="94" width="14" height="14" rx="7" fill="#FFD166"/>
-  <rect x="260" y="94" width="14" height="14" rx="7" fill="#06D6A0"/>
+  <rect x="236" y="94" width="14" height="14" rx="7" fill="#FFB703"/>
+  <rect x="260" y="94" width="14" height="14" rx="7" fill="#00E5FF"/>
 
   <g>
     <animateTransform
@@ -40,12 +40,12 @@
       values="0 0; 6 -4; 0 0; -6 4; 0 0"
       dur="12s"
       repeatCount="indefinite"/>
-    <text x="248" y="196" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="#081327" opacity="0.75">Shukrael Mohammed</text>
+    <text x="248" y="196" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="#120A2A" opacity="0.76">Shukrael Mohammed</text>
     <text x="244" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="url(#accent)">Shukrael Mohammed</text>
 
-    <text x="248" y="232" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#C8D6E5" letter-spacing="1.2">FULL-STACK DEVELOPER | REACT | UI SYSTEMS</text>
+    <text x="248" y="232" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#E6DFF8" letter-spacing="1.2">FULL-STACK DEVELOPER | REACT | UI SYSTEMS</text>
   </g>
 
-  <path d="M792 230L890 206" stroke="#5BC0BE" stroke-width="6" stroke-linecap="round" opacity="0.75"/>
-  <path d="M788 198L896 170" stroke="#F6AE2D" stroke-width="6" stroke-linecap="round" opacity="0.75"/>
+  <path d="M792 230L890 206" stroke="#00E5FF" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
+  <path d="M788 198L896 170" stroke="#FFB703" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
 </svg>

@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shukraelmohammed32&label=Profile%20Views&style=for-the-badge&color=0b132b" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shukraelmohammed32?style=for-the-badge&color=1c2541&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Product%20Engineering-5bc0be?style=for-the-badge&labelColor=0b132b" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=shukraelmohammed32&label=Profile%20Views&style=for-the-badge&color=3b185f" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shukraelmohammed32?style=for-the-badge&color=a12568&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Product%20Engineering-00e5ff?style=for-the-badge&labelColor=120c2e&logoColor=0b1020" alt="Focus" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=5BC0BE&background=0B132B00&center=true&vCenter=true&width=760&lines=Crafting+clean+full-stack+products;Designing+modular+UI+systems+that+scale;Turning+product+ideas+into+reliable+experiences" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=00E5FF&background=120C2E00&center=true&vCenter=true&width=760&lines=Crafting+clean+full-stack+products;Designing+modular+UI+systems+that+scale;Turning+product+ideas+into+reliable+experiences" alt="Typing introduction" />
 </p>
 
 ---
