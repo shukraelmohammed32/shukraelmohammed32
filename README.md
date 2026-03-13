@@ -19,43 +19,47 @@
 ## About Me
 
 <p align="center">
-  I build modern web experiences with a focus on clean architecture, reusable component systems, and practical product outcomes.
+  <img src="./assets/about-3d.svg" alt="3D colorful about section" width="100%" />
+</p>
+
+<p align="center">
+  I build modern web products with <strong>clear UX</strong>, <strong>scalable architecture</strong>, and <strong>clean, maintainable code</strong>.
 </p>
 
 <table align="center">
   <tr>
-    <td width="320" valign="top">
+    <td width="320" valign="top" align="left">
       <h3>Now Building</h3>
       <ul>
-        <li>Full-stack applications with React, TypeScript, and Node.</li>
-        <li>Reusable UI patterns with strong design consistency.</li>
-        <li>Interfaces with accessibility and performance in mind.</li>
+        <li>Full-stack apps with React, TypeScript, and Node.js.</li>
+        <li>Reusable UI components and consistent design tokens.</li>
+        <li>Fast interfaces focused on accessibility and quality.</li>
       </ul>
     </td>
-    <td width="320" valign="top">
-      <h3>Leveling Up</h3>
+    <td width="320" valign="top" align="left">
+      <h3>Improving</h3>
       <ul>
-        <li>Advanced React architecture and rendering strategies.</li>
-        <li>Testing workflows using Vitest and Playwright.</li>
-        <li>Developer experience and automation in CI pipelines.</li>
+        <li>Advanced React rendering and architecture patterns.</li>
+        <li>Test strategy with Vitest and Playwright.</li>
+        <li>Developer workflow automation and CI reliability.</li>
       </ul>
     </td>
-    <td width="320" valign="top">
+    <td width="320" valign="top" align="left">
       <h3>Open To</h3>
       <ul>
-        <li>Design systems and front-end platform collaboration.</li>
+        <li>Design system and front-end platform collaboration.</li>
         <li>Product prototyping and implementation reviews.</li>
-        <li>Partnerships focused on scalable web products.</li>
+        <li>Building scalable products with focused teams.</li>
       </ul>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-0b132b?style=for-the-badge&labelColor=1c2541" alt="Role" />
-  <img src="https://img.shields.io/badge/Primary-React%20%2B%20Scalable%20UI-3a506b?style=for-the-badge&labelColor=0b132b" alt="Primary" />
-  <img src="https://img.shields.io/badge/Style-Clean%20%26%20Reusable-5bc0be?style=for-the-badge&labelColor=1c2541" alt="Style" />
-  <img src="https://img.shields.io/badge/Goal-Ship%20Reliable%20Products-f4f1de?style=for-the-badge&labelColor=3a506b&color=5bc0be" alt="Goal" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-264653?style=for-the-badge&labelColor=1D3557" alt="Role" />
+  <img src="https://img.shields.io/badge/Primary-React%20%2B%20Scalable%20UI-3A86FF?style=for-the-badge&labelColor=1D3557" alt="Primary" />
+  <img src="https://img.shields.io/badge/Style-Clean%20%26%20Reusable-2A9D8F?style=for-the-badge&labelColor=1D3557" alt="Style" />
+  <img src="https://img.shields.io/badge/Goal-Ship%20Reliable%20Products-F4A261?style=for-the-badge&labelColor=1D3557" alt="Goal" />
 </p>
 
 ---

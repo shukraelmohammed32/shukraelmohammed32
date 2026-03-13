@@ -1,0 +1,46 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="3D colorful about section">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B132B"/>
+      <stop offset="0.45" stop-color="#1C2541"/>
+      <stop offset="1" stop-color="#2A9D8F"/>
+    </linearGradient>
+    <linearGradient id="cubeA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5BC0BE"/>
+      <stop offset="1" stop-color="#3A86FF"/>
+    </linearGradient>
+    <linearGradient id="cubeB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6AE2D"/>
+      <stop offset="1" stop-color="#F26419"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#020611" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg2)"/>
+
+  <g filter="url(#soft)">
+    <path d="M128 215L218 165L308 215L218 265L128 215Z" fill="url(#cubeA)"/>
+    <path d="M218 165V90L308 140V215L218 165Z" fill="#4EC5C1"/>
+    <path d="M128 215V140L218 90V165L128 215Z" fill="#2B8FA6"/>
+  </g>
+
+  <g filter="url(#soft)">
+    <path d="M920 235L1005 190L1090 235L1005 280L920 235Z" fill="url(#cubeB)"/>
+    <path d="M1005 190V125L1090 170V235L1005 190Z" fill="#FFD166"/>
+    <path d="M920 235V170L1005 125V190L920 235Z" fill="#F6AE2D"/>
+  </g>
+
+  <rect x="300" y="86" width="600" height="190" rx="20" fill="#0D1B34" stroke="#6EC7C3" stroke-opacity="0.5"/>
+
+  <text x="340" y="152" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" fill="#0A1328" opacity="0.7">ABOUT ME</text>
+  <text x="336" y="146" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" fill="#F4F1DE">ABOUT ME</text>
+
+  <text x="338" y="191" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" fill="#CFE8E7">Building clean full-stack products with clear UX and strong code quality.</text>
+  <text x="338" y="225" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" fill="#AEE7E4">React | TypeScript | Node | Scalable UI Systems</text>
+
+  <circle cx="870" cy="112" r="8" fill="#5BC0BE"/>
+  <circle cx="896" cy="112" r="8" fill="#F6AE2D"/>
+  <circle cx="922" cy="112" r="8" fill="#F26419"/>
+</svg>
