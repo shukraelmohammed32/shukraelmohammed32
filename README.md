@@ -1,7 +1,7 @@
 # Hello, I'm Shukrael Mohammed
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0b132b,30:1c2541,60:3a506b,100:5bc0be&text=Shukrael%20Mohammed&fontColor=f4f1de&fontSize=44&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20Enthusiast%20%7C%20UI%2FUX%20Focused&descAlignY=58&animation=twinkling" alt="Profile header banner" />
+  <img src="./assets/hero-3d.svg" alt="3D profile hero banner" width="100%" />
 </p>
 
 <p align="center">
