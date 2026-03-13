@@ -33,10 +33,18 @@
   <rect x="236" y="94" width="14" height="14" rx="7" fill="#FFD166"/>
   <rect x="260" y="94" width="14" height="14" rx="7" fill="#06D6A0"/>
 
-  <text x="248" y="196" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="#081327" opacity="0.75">Shukrael Mohammed</text>
-  <text x="244" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="url(#accent)">Shukrael Mohammed</text>
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0; 6 -4; 0 0; -6 4; 0 0"
+      dur="12s"
+      repeatCount="indefinite"/>
+    <text x="248" y="196" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="#081327" opacity="0.75">Shukrael Mohammed</text>
+    <text x="244" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="url(#accent)">Shukrael Mohammed</text>
 
-  <text x="248" y="232" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#C8D6E5" letter-spacing="1.2">FULL-STACK DEVELOPER | REACT | UI SYSTEMS</text>
+    <text x="248" y="232" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#C8D6E5" letter-spacing="1.2">FULL-STACK DEVELOPER | REACT | UI SYSTEMS</text>
+  </g>
 
   <path d="M792 230L890 206" stroke="#5BC0BE" stroke-width="6" stroke-linecap="round" opacity="0.75"/>
   <path d="M788 198L896 170" stroke="#F6AE2D" stroke-width="6" stroke-linecap="round" opacity="0.75"/>
