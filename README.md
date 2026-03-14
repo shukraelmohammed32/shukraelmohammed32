@@ -1,4 +1,4 @@
-# moh@shukr@👋
+# <img src="https://github.com/shukraelmohammed32.png" width="48" /> Hello, I'm Shukrael Mohammed 👋
 
 <p align="center">
   <img src="./assets/hero-3d.svg" alt="3D profile hero banner" width="100%" />
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  I design and deliver production-grade digital products that combine <strong>exceptional user experience</strong>, <strong>scalable engineering</strong>, and <strong>clean, long-term maintainable code</strong>.
+  👨‍💻 I design and deliver production-grade digital products that combine <strong>exceptional user experience</strong>, <strong>scalable engineering</strong>, and <strong>clean, long-term maintainable code</strong>.
 </p>
 
 <table align="center">
@@ -64,7 +64,7 @@
 
 ---
 
-## Connect With Me
+## Connect With Me 🤝
 
 <p align="center">
   <a href="https://linkedin.com/in/shukraelmohammed32" target="_blank">
