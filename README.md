@@ -1,4 +1,4 @@
-# Hello, I'm Shukrael Mohammed
+# Hello, I'm Shukrael Mohammed 👋
 
 <p align="center">
   <img src="./assets/hero-3d.svg" alt="3D profile hero banner" width="100%" />
@@ -31,25 +31,25 @@
     <td width="320" valign="top" align="left">
       <h3>What I Build</h3>
       <ul>
-        <li>🟢 ➜ End-to-end web platforms with React, TypeScript, and Node.js.</li>
-        <li>🟢 ➜ Robust component systems powered by reusable design foundations.</li>
-        <li>🟢 ➜ High-performance, accessible interfaces built for real-world scale.</li>
+        <li>👨‍💻 ➜ End-to-end web platforms with React, TypeScript, and Node.js.</li>
+        <li>🏗️ ➜ Robust component systems powered by reusable design foundations.</li>
+        <li>🚀 ➜ High-performance, accessible interfaces built for real-world scale.</li>
       </ul>
     </td>
     <td width="320" valign="top" align="left">
       <h3>What I Master</h3>
       <ul>
-        <li>🟢 ➜ Advanced React architecture, rendering behavior, and system design.</li>
-        <li>🟢 ➜ Comprehensive quality pipelines with Vitest and Playwright.</li>
-        <li>🟢 ➜ Developer productivity through CI automation and tooling excellence.</li>
+        <li>🧠 ➜ Advanced React architecture, rendering behavior, and system design.</li>
+        <li>🛡️ ➜ Comprehensive quality pipelines with Vitest and Playwright.</li>
+        <li>⚙️ ➜ Developer productivity through CI automation and tooling excellence.</li>
       </ul>
     </td>
     <td width="320" valign="top" align="left">
       <h3>Where I Add Value</h3>
       <ul>
-        <li>🟢 ➜ Design system leadership and front-end platform development.</li>
-        <li>🟢 ➜ Product discovery, rapid prototyping, and architecture reviews.</li>
-        <li>🟢 ➜ Partnering with ambitious teams to ship scalable product outcomes.</li>
+        <li>🎨 ➜ Design system leadership and front-end platform development.</li>
+        <li>🔍 ➜ Product discovery, rapid prototyping, and architecture reviews.</li>
+        <li>🤝 ➜ Partnering with ambitious teams to ship scalable product outcomes.</li>
       </ul>
     </td>
   </tr>
