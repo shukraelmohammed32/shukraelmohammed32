@@ -1,4 +1,4 @@
-# Hello, I'm Shukrael Mohammed 👋
+# moh@shukr@👋
 
 <p align="center">
   <img src="./assets/hero-3d.svg" alt="3D profile hero banner" width="100%" />
