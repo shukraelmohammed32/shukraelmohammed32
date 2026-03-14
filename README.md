@@ -1,4 +1,4 @@
-# <img src="https://github.com/shukraelmohammed32.png" width="48" /> Hello, I'm moh@shukra👋
+# <img src="/assets/shukra.png" width="48" /> Hello, I'm moh@shukra👋
 
 <p align="center">
   <img src="./assets/hero-3d.svg" alt="3D profile hero banner" width="100%" />
