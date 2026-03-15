@@ -108,10 +108,6 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shukraelmohammed32&hide_border=true&background=0B132B&ring=5BC0BE&currStreakLabel=F4F1DE&currStreakNum=5BC0BE&sideNums=F4F1DE&sideLabels=B8C4D2&dates=B8C4D2&fire=F6AE2D" alt="GitHub streak" height="190" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukraelmohammed32&theme=nord_dark" alt="GitHub profile summary" width="100%" />
 </p>
 
