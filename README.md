@@ -79,7 +79,7 @@
   <a href="https://www.youtube.com/channel/UC_hJyooDtFVMgpRwDiraqvQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="mailto:shukrael@example.com">
+  <a href="mailto:shukraelmohammed32@gmail.com">
     <img src="https://img.shields.io/badge/Email-1c2541?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
