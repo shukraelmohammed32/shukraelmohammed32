@@ -90,17 +90,17 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,sass,bootstrap,flutter,dart" alt="Frontend stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,bootstrap,redux,vite,flutter,dart" alt="Frontend stack" />
 </p>
 
 ### Backend and Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,php,java" alt="Backend stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c,cpp,php,mongodb,mysql,postgres,firebase,redis" alt="Backend stack" />
 </p>
 
 ### Tools and Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,oracle,apache,cloudflare,windows" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,docker,linux,figma,netlify,vercel,cloudflare" alt="Tools and platforms" />
 </p>
 
 ---
