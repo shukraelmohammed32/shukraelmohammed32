@@ -68,19 +68,19 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shukraelmohammed32" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-3E2723?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/mohashukra" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-3E2723?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://facebook.com/100076740533442" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-3E2723?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UC_hJyooDtFVMgpRwDiraqvQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-3E2723?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:shukraelmohammed32@gmail.com">
-    <img src="https://img.shields.io/badge/Email-3E2723?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-1c2541?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
