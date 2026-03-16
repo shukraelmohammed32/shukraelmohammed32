@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shukraelmohammed32&label=Profile%20Views&style=for-the-badge&color=3b185f" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shukraelmohammed32?style=for-the-badge&color=a12568&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Product%20Engineering-00e5ff?style=for-the-badge&labelColor=120c2e&logoColor=0b1020" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=shukraelmohammed32&label=Profile%20Views&style=for-the-badge&color=3E2723" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shukraelmohammed32?style=for-the-badge&color=4E342E&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Product%20Engineering-8D6E63?style=for-the-badge&labelColor=261C15&logoColor=D7CCC8" alt="Focus" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=00E5FF&background=120C2E00&center=true&vCenter=true&width=760&lines=Crafting+clean+full-stack+products;Designing+modular+UI+systems+that+scale;Turning+product+ideas+into+reliable+experiences" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=8D6E63&background=120C2E00&center=true&vCenter=true&width=760&lines=Crafting+clean+full-stack+products;Designing+modular+UI+systems+that+scale;Turning+product+ideas+into+reliable+experiences" alt="Typing introduction" />
 </p>
 
 ---
@@ -56,10 +56,10 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-264653?style=for-the-badge&labelColor=1D3557" alt="Role" />
-  <img src="https://img.shields.io/badge/Primary-React%20%2B%20Scalable%20UI-3A86FF?style=for-the-badge&labelColor=1D3557" alt="Primary" />
-  <img src="https://img.shields.io/badge/Style-Clean%20%26%20Reusable-2A9D8F?style=for-the-badge&labelColor=1D3557" alt="Style" />
-  <img src="https://img.shields.io/badge/Goal-Ship%20Reliable%20Products-F4A261?style=for-the-badge&labelColor=1D3557" alt="Goal" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-4E342E?style=for-the-badge&labelColor=261C15" alt="Role" />
+  <img src="https://img.shields.io/badge/Primary-React%20%2B%20Scalable%20UI-5D4037?style=for-the-badge&labelColor=261C15" alt="Primary" />
+  <img src="https://img.shields.io/badge/Style-Clean%20%26%20Reusable-6D4C41?style=for-the-badge&labelColor=261C15" alt="Style" />
+  <img src="https://img.shields.io/badge/Goal-Ship%20Reliable%20Products-8D6E63?style=for-the-badge&labelColor=261C15" alt="Goal" />
 </p>
 
 ---
@@ -68,19 +68,19 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shukraelmohammed32" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-3E2723?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/mohashukra" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-3E2723?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://facebook.com/100076740533442" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-3E2723?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UC_hJyooDtFVMgpRwDiraqvQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-3E2723?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:shukraelmohammed32@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1c2541?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-3E2723?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -108,12 +108,12 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukraelmohammed32&theme=nord_dark" alt="GitHub profile summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukraelmohammed32&theme=gruvbox" alt="GitHub profile summary" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shukraelmohammed32&theme=nord_dark" alt="Repositories per language" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shukraelmohammed32&theme=nord_dark" alt="Most commit language" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shukraelmohammed32&theme=gruvbox" alt="Repositories per language" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shukraelmohammed32&theme=gruvbox" alt="Most commit language" height="200" />
 </p>
 
 ---
@@ -121,7 +121,7 @@
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shukraelmohammed32&theme=algolia&no-frame=true&no-bg=true&margin-w=16&margin-h=16&row=2&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shukraelmohammed32&theme=gruvbox&no-frame=true&no-bg=true&margin-w=16&margin-h=16&row=2&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub trophies" width="100%" />
 </p>
 
 ---
@@ -129,8 +129,8 @@
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shukraelmohammed32&theme=nord_dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-activity-graph.vercel.app/graph?username=shukraelmohammed32&bg_color=0b132b&color=f4f1de&line=5bc0be&point=f6ae2d&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shukraelmohammed32&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=shukraelmohammed32&bg_color=282828&color=ebdbb2&line=d79921&point=fe8019&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
