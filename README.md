@@ -129,6 +129,7 @@
 ## Contribution Graph
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shukraelmohammed32&theme=nord_dark&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-activity-graph.vercel.app/graph?username=shukraelmohammed32&bg_color=0b132b&color=f4f1de&line=5bc0be&point=f6ae2d&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
