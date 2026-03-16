@@ -95,7 +95,7 @@
 
 ### Backend and Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c,cpp,php,mongodb,mysql,postgres,firebase,redis" alt="Backend stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,python,java,c,cpp,php,mongodb,mysql,postgres,firebase,redis" alt="Backend stack" />
 </p>
 
 ### Tools and Platforms
