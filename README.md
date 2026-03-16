@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=334E68&background=120C2E00&center=true&vCenter=true&width=760&lines=Crafting+clean+full-stack+products;Designing+modular+UI+systems+that+scale;Turning+product+ideas+into+reliable+experiences" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=2196F3&background=120C2E00&center=true&vCenter=true&width=760&lines=Crafting+clean+full-stack+products;Designing+modular+UI+systems+that+scale;Turning+product+ideas+into+reliable+experiences" alt="Typing introduction" />
 </p>
 
 ---
