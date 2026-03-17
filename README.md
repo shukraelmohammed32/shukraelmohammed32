@@ -32,11 +32,34 @@ I build production-ready digital products that balance usability, performance, a
 
 ## What I Focus On
 
-| Area | Highlights |
-|---|---|
-| Product Engineering | End-to-end web products with React, TypeScript, Node.js, and strong DX. |
-| Frontend Architecture | Component systems, scalable state patterns, and accessibility-first interfaces. |
-| Quality and Delivery | Testing workflows, CI automation, and predictable release practices. |
+<table align="center">
+  <tr>
+    <td width="320" valign="top" align="left">
+      <h3>Product Engineering</h3>
+      <ul>
+        <li>Build end-to-end web products with React, TypeScript, and Node.js.</li>
+        <li>Turn ideas into production-ready systems with strong developer experience.</li>
+        <li>Balance speed, reliability, and long-term maintainability.</li>
+      </ul>
+    </td>
+    <td width="320" valign="top" align="left">
+      <h3>Frontend Architecture</h3>
+      <ul>
+        <li>Create scalable component systems and reusable UI foundations.</li>
+        <li>Design state and rendering patterns for predictable growth.</li>
+        <li>Keep accessibility and performance as default engineering standards.</li>
+      </ul>
+    </td>
+    <td width="320" valign="top" align="left">
+      <h3>Quality and Delivery</h3>
+      <ul>
+        <li>Build robust testing flows with practical quality gates.</li>
+        <li>Automate CI pipelines for faster, safer releases.</li>
+        <li>Support teams with clean workflows and dependable delivery habits.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
