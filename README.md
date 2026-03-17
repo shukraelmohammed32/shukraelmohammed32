@@ -84,6 +84,10 @@ I build production-ready digital products that balance usability, performance, a
 ## GitHub Insights
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shukraelmohammed32&show_icons=true&rank_icon=github&include_all_commits=true&theme=gruvbox&cache_seconds=1800" alt="GitHub stats with stars" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shukraelmohammed32&theme=gruvbox" alt="GitHub profile summary" width="100%" />
 </p>
 
